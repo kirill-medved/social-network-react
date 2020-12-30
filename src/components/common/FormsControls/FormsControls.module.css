@@ -1,0 +1,35 @@
+.field {
+  display: flex;
+  align-items: center;
+}
+
+.error {
+  display: flex;
+  align-items: center;
+}
+
+.error textarea,
+.error input {
+  border: 1px solid crimson;
+}
+
+.warning textarea,
+.warning input {
+  border: 5px solid darkorange;
+}
+
+.error span {
+  color: crimson;
+  margin: 10px;
+}
+
+.warning span {
+  color: darkorange;
+  margin: 10px;
+}
+
+.asyncError {
+  border: 1px solid crimson;
+  color: crimson;
+  margin: 10px;
+}

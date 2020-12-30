@@ -1,0 +1,30 @@
+.bgImage {
+  background-image: url(https://www.afd.fr/sites/afd/files/styles/visuel_principal/public/2019-01-07-16-19/mangrove%20couv.jpg?itok=IGNV-r8C);
+  min-height: 200px;
+  display: block;
+  margin: 0 auto;
+  color: #000000;
+}
+
+.profileInfo {
+  /* position: relative;
+  top: 150px; */
+  background-color: #c3c3c3bb;
+  /* background-color: #6d6e71bb; */
+  text-align: end;
+  padding-right: 30px;
+}
+
+.profilePhoto {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 5px solid #fff;
+  margin-left: 10px;
+  position: relative;
+  top: 70px;
+}
+
+.status {
+  float: right;
+}

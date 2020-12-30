@@ -1,0 +1,8 @@
+.content {
+  grid-area: content;
+  padding-left: 10px;
+}
+
+.content img {
+  height: 200px;
+}
